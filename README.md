@@ -17,10 +17,16 @@ CSE student and aspiring Full Stack Developer passionate about Java, DSA, and We
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/ yamuna19-code" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/yamuna-r-a8a148371" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+
 
 <b>My GitHub Stats</b>
 
 ## 🔥 My GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yamuna19-code)](https://git.io/streak-stats)
+## 🔥 My GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yamuna19-code&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+### 💜 Code. Learn. Build. Repeat.
