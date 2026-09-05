@@ -21,5 +21,6 @@ CSE student and aspiring Full Stack Developer passionate about Java, DSA, and We
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ yamuna19-code"><img src="https://github-readme-streak-stats.herokuapp.com/?user= yamuna19-code&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 🔥 My GitHub Streak
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=yamuna19-code)](https://git.io/streak-stats)
