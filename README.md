@@ -23,8 +23,6 @@ CSE student and aspiring Full Stack Developer passionate about Java, DSA, and We
 
 ## 🔥 My GitHub Streak
 
-## 🔥 My GitHub Streak
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=yamuna19-code&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
